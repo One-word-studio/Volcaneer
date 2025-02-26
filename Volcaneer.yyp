@@ -34,12 +34,17 @@
   },
   "name":"Volcaneer",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"End","path":"rooms/End/End.yy",},},
+    {"id":{"name":"Game","path":"rooms/Game/Game.yy",},},
+    {"id":{"name":"Main","path":"rooms/Main/Main.yy",},},
+    {"id":{"name":"Background","path":"sprites/Background/Background.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Main","path":"rooms/Main/Main.yy",},},
+    {"roomId":{"name":"Game","path":"rooms/Game/Game.yy",},},
+    {"roomId":{"name":"End","path":"rooms/End/End.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
