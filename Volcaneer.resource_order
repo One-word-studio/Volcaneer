@@ -19,5 +19,6 @@
   "ResourceOrderSettings":[
     {"name":"End","order":2,"path":"rooms/End/End.yy",},
     {"name":"Game","order":1,"path":"rooms/Game/Game.yy",},
+    {"name":"Background","order":16,"path":"sprites/Background/Background.yy",},
   ],
 }
