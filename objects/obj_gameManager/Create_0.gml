@@ -1,0 +1,1 @@
+view_visible[0] = 1;
