@@ -1,4 +1,4 @@
-lava = 0
+lava = 20
 ingot = 0
 currentScore = 0
 highScore = 0
