@@ -2,6 +2,8 @@
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
     {"name":"obj_gameManager","order":1,"path":"objects/obj_gameManager/obj_gameManager.yy",},
+    {"name":"obj_pathEndpoint","order":2,"path":"objects/obj_pathEndpoint/obj_pathEndpoint.yy",},
     {"name":"Background","order":1,"path":"sprites/Background/Background.yy",},
+    {"name":"spr_pathEndpoint","order":2,"path":"sprites/spr_pathEndpoint/spr_pathEndpoint.yy",},
   ],
 }

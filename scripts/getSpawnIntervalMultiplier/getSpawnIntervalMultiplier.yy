@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"getWaveDifficulty",
+  "%Name":"getSpawnIntervalMultiplier",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"getWaveDifficulty",
+  "name":"getSpawnIntervalMultiplier",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",
