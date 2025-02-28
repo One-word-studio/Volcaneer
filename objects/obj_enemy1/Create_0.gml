@@ -1,0 +1,1 @@
+path_start(path_enemy, walkSpeed, path_action_stop, true);

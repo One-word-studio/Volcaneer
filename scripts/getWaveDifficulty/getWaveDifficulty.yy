@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"getWaveDifficulty",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"getWaveDifficulty",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
