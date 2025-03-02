@@ -1,0 +1,5 @@
+draw_self()
+draw_sprite_ext(spr_uiBackground, -1, x, gui_y, gui_xscale, gui_yscale, 0, c_white, 1)
+draw_set_valign(fa_middle)
+draw_text(gui_inner_x + 5, gui_inner_y + 24, "SPEED(" + string_format(gen_speed, 3, 0) + ")")
+draw_text(gui_inner_x + 5,gui_inner_y + 60, "CAPACITY(" + string_format(quantity, 1, 0) + ")")

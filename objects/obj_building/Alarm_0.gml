@@ -1,4 +1,4 @@
-var createdAmount = min(obj_gameManager.lava, amount)
+var createdAmount = min(obj_gameManager.lava, quantity)
 obj_gameManager.lava -= createdAmount
 obj_gameManager.ingot += createdAmount
 
