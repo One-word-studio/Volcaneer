@@ -1,5 +1,8 @@
 lava = 20
-ingot = 0
+mineral = 0
 currentScore = 0
-highScore = 0
 waveIndex = 0
+
+draw_set_font(Planes_ValMore)
+
+alarm[0] = 1

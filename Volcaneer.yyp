@@ -27,7 +27,9 @@
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
-  "IncludedFiles":[],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"Planes_ValMore.ttf","CopyToMask":-1,"filePath":"datafiles","name":"Planes_ValMore.ttf","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
@@ -35,6 +37,7 @@
   },
   "name":"Volcaneer",
   "resources":[
+    {"id":{"name":"Planes_ValMore","path":"fonts/Planes_ValMore/Planes_ValMore.yy",},},
     {"id":{"name":"obj_building","path":"objects/obj_building/obj_building.yy",},},
     {"id":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},},
     {"id":{"name":"obj_enemy1","path":"objects/obj_enemy1/obj_enemy1.yy",},},
@@ -49,8 +52,10 @@
     {"id":{"name":"Background","path":"sprites/Background/Background.yy",},},
     {"id":{"name":"spr_building","path":"sprites/spr_building/spr_building.yy",},},
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},},
+    {"id":{"name":"spr_magicMineral","path":"sprites/spr_magicMineral/spr_magicMineral.yy",},},
     {"id":{"name":"spr_pathEndpoint","path":"sprites/spr_pathEndpoint/spr_pathEndpoint.yy",},},
     {"id":{"name":"spr_uiBackground","path":"sprites/spr_uiBackground/spr_uiBackground.yy",},},
+    {"id":{"name":"spr_uiBackground2","path":"sprites/spr_uiBackground2/spr_uiBackground2.yy",},},
     {"id":{"name":"spr_upgrade","path":"sprites/spr_upgrade/spr_upgrade.yy",},},
   ],
   "resourceType":"GMProject",

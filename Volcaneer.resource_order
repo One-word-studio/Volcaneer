@@ -24,7 +24,9 @@
     {"name":"obj_pathEndpoint","order":3,"path":"objects/obj_pathEndpoint/obj_pathEndpoint.yy",},
     {"name":"Background","order":2,"path":"sprites/Background/Background.yy",},
     {"name":"spr_building","order":1,"path":"sprites/spr_building/spr_building.yy",},
+    {"name":"spr_magicMineral","order":3,"path":"sprites/spr_magicMineral/spr_magicMineral.yy",},
     {"name":"spr_pathEndpoint","order":3,"path":"sprites/spr_pathEndpoint/spr_pathEndpoint.yy",},
+    {"name":"spr_uiBackground2","order":2,"path":"sprites/spr_uiBackground2/spr_uiBackground2.yy",},
     {"name":"spr_upgrade","order":1,"path":"sprites/spr_upgrade/spr_upgrade.yy",},
   ],
 }
