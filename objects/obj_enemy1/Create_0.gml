@@ -1,3 +1,3 @@
 image_xscale = -1;
-image_speed = 0.2;
+image_speed = animationSpeed;
 path_start(path_enemy, walkSpeed, path_action_stop, true);
