@@ -56,6 +56,7 @@
     {"id":{"name":"Background","path":"sprites/Background/Background.yy",},},
     {"id":{"name":"spr_building","path":"sprites/spr_building/spr_building.yy",},},
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},},
+    {"id":{"name":"spr_lavaWalk","path":"sprites/spr_lavaWalk/spr_lavaWalk.yy",},},
     {"id":{"name":"spr_magicMineral","path":"sprites/spr_magicMineral/spr_magicMineral.yy",},},
     {"id":{"name":"spr_pathEndpoint","path":"sprites/spr_pathEndpoint/spr_pathEndpoint.yy",},},
     {"id":{"name":"spr_uiBackground","path":"sprites/spr_uiBackground/spr_uiBackground.yy",},},
