@@ -60,6 +60,7 @@
     {"id":{"name":"Game","path":"rooms/Game/Game.yy",},},
     {"id":{"name":"Main","path":"rooms/Main/Main.yy",},},
     {"id":{"name":"getSpawnIntervalMultiplier","path":"scripts/getSpawnIntervalMultiplier/getSpawnIntervalMultiplier.yy",},},
+    {"id":{"name":"snd_menuMusic","path":"sounds/snd_menuMusic/snd_menuMusic.yy",},},
     {"id":{"name":"Background","path":"sprites/Background/Background.yy",},},
     {"id":{"name":"spr_arrow","path":"sprites/spr_arrow/spr_arrow.yy",},},
     {"id":{"name":"spr_building","path":"sprites/spr_building/spr_building.yy",},},
