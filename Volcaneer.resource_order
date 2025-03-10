@@ -30,6 +30,7 @@
     {"name":"obj_enemy2","order":6,"path":"objects/obj_enemy2/obj_enemy2.yy",},
     {"name":"obj_enemy3","order":7,"path":"objects/obj_enemy3/obj_enemy3.yy",},
     {"name":"obj_gameManager","order":2,"path":"objects/obj_gameManager/obj_gameManager.yy",},
+    {"name":"obj_musicController","order":17,"path":"objects/obj_musicController/obj_musicController.yy",},
     {"name":"obj_pathEndpoint","order":3,"path":"objects/obj_pathEndpoint/obj_pathEndpoint.yy",},
     {"name":"obj_play_button","order":12,"path":"objects/obj_play_button/obj_play_button.yy",},
     {"name":"obj_quit_button","order":13,"path":"objects/obj_quit_button/obj_quit_button.yy",},
