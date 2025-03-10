@@ -1,3 +1,8 @@
+//Show enemy as hit
+if (other.hit == false) {
+	other.hit = true;	
+}
+
 // Damage dealt is based on enemy type
 if (other.object_index == obj_enemy1) {
 	other.hp -= 50;

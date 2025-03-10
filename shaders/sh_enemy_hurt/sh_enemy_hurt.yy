@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"sh_enemy_hurt",
+  "name":"sh_enemy_hurt",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}
