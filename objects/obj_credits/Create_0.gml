@@ -1,4 +1,4 @@
-// Define your credits text as an array (each element is a line)
+
 credits = [
     "VOLCANEER",
     "",
@@ -14,8 +14,8 @@ credits = [
 	"Press R to Restart, Q to Quit"
 ];
 
-// Starting y-position for the credits (begin off-screen at the bottom)
+// Starting y-position for the credits 
 scroll_y = room_height;
 
-// Adjust scrolling speed (pixels per step)
+// Adjust scrolling speed 
 scroll_speed = 1;

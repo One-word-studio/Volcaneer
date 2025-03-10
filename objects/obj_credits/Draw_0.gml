@@ -1,5 +1,5 @@
 
-var line_height = 32; // Adjust based on your preferred spacing
+var line_height = 40;
 for (var i = 0; i < array_length_1d(credits); i++) {
     var txt = credits[i];
     var txt_width = string_width(txt);
