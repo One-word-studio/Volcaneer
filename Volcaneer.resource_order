@@ -51,6 +51,7 @@
     {"name":"spr_barrel","order":5,"path":"sprites/spr_barrel/spr_barrel.yy",},
     {"name":"spr_bighouse","order":4,"path":"sprites/spr_bighouse/spr_bighouse.yy",},
     {"name":"spr_bigtower","order":2,"path":"sprites/spr_bigtower/spr_bigtower.yy",},
+    {"name":"spr_Bitm","order":9,"path":"sprites/spr_Bitm/spr_Bitm.yy",},
     {"name":"spr_building","order":9,"path":"sprites/spr_building/spr_building.yy",},
     {"name":"spr_button_credits","order":7,"path":"sprites/spr_button_credits/spr_button_credits.yy",},
     {"name":"spr_button_play","order":6,"path":"sprites/spr_button_play/spr_button_play.yy",},

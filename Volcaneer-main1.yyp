@@ -79,6 +79,7 @@
     {"id":{"name":"spr_barrel","path":"sprites/spr_barrel/spr_barrel.yy",},},
     {"id":{"name":"spr_bighouse","path":"sprites/spr_bighouse/spr_bighouse.yy",},},
     {"id":{"name":"spr_bigtower","path":"sprites/spr_bigtower/spr_bigtower.yy",},},
+    {"id":{"name":"spr_Bitm","path":"sprites/spr_Bitm/spr_Bitm.yy",},},
     {"id":{"name":"spr_building","path":"sprites/spr_building/spr_building.yy",},},
     {"id":{"name":"spr_button_credits","path":"sprites/spr_button_credits/spr_button_credits.yy",},},
     {"id":{"name":"spr_button_play","path":"sprites/spr_button_play/spr_button_play.yy",},},
