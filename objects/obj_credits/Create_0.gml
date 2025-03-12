@@ -1,3 +1,6 @@
+credit_y = room_height;
+stop_y = room_height/4;
+scroll_speed = 1;
 
 credits = [
     "VOLCANEER",
@@ -14,8 +17,5 @@ credits = [
 	"Press R to Restart, Q to Quit"
 ];
 
-// Starting y-position for the credits 
-scroll_y = room_height;
 
-// Adjust scrolling speed 
-scroll_speed = 1;
+
