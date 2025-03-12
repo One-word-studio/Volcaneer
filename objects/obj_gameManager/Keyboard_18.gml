@@ -9,11 +9,11 @@ if (keyboard_check_pressed(vk_left)) {
 }
 
 //Cheats
-if (keyboard_check(ord("n"))) {
+if (keyboard_check_pressed(ord("N"))) {
 	obj_gameManager.lava += 10
 }
 
-if (keyboard_check(ord("m"))) {
+if (keyboard_check_pressed(ord("M"))) {
 	obj_gameManager.mineral += 10
 }
 
