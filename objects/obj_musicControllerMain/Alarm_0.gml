@@ -1,0 +1,1 @@
+fadeOutMusic(snd_menuMusic);
