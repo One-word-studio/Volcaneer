@@ -13,3 +13,7 @@ if (view_visible[0]) {
 	draw_text_transformed_color(4, view_hport[0] - 428, "Lava", 1.75, 1.75, 0,
 								c_black, c_black, c_black, c_black, 1)
 }
+
+draw_text_transformed_color(900, 40, $"{4-currentTimerMinutes}:{59-(currentTimerSeconds%60)}",
+								4, 4, 0,
+								c_black, c_black, c_red, c_red, 1)

@@ -8,4 +8,8 @@ if (instance_exists(speed_btn) && speed_btn.pressed) {
 
 if (instance_exists(quantity_btn) && quantity_btn.pressed) {
 	quantity++
+	
+	if (quantity > 9) {
+		instance_destroy(quantity_btn)	
+	}
 }
