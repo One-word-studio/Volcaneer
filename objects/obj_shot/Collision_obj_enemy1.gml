@@ -3,6 +3,9 @@ if (other.hit == false) {
 	other.hit = true;	
 }
 
+var collisionSound = audio_play_sound(snd_enemyTakingDamage, 1, false, 0.15);
+audio_sound_pitch(collisionSound, random_range(0.9, 1.1));
+
 // Damage dealt is based on enemy type
 if (other.object_index == obj_enemy1) {
 	other.hp -= 50;

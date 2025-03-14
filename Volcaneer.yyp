@@ -73,6 +73,7 @@
     {"id":{"name":"fadeOutMusic","path":"scripts/fadeOutMusic/fadeOutMusic.yy",},},
     {"id":{"name":"getSpawnIntervalMultiplier","path":"scripts/getSpawnIntervalMultiplier/getSpawnIntervalMultiplier.yy",},},
     {"id":{"name":"sh_enemy_hurt","path":"shaders/sh_enemy_hurt/sh_enemy_hurt.yy",},},
+    {"id":{"name":"snd_enemyTakingDamage","path":"sounds/snd_enemyTakingDamage/snd_enemyTakingDamage.yy",},},
     {"id":{"name":"snd_menuMusic","path":"sounds/snd_menuMusic/snd_menuMusic.yy",},},
     {"id":{"name":"snd_prewaveMusic","path":"sounds/snd_prewaveMusic/snd_prewaveMusic.yy",},},
     {"id":{"name":"snd_turretShot","path":"sounds/snd_turretShot/snd_turretShot.yy",},},
