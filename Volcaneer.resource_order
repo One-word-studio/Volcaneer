@@ -45,6 +45,7 @@
     {"name":"prt_watergolem","order":2,"path":"particles/prt_watergolem/prt_watergolem.yy",},
     {"name":"fadeOutMusic","order":1,"path":"scripts/fadeOutMusic/fadeOutMusic.yy",},
     {"name":"snd_enemyTakingDamage","order":4,"path":"sounds/snd_enemyTakingDamage/snd_enemyTakingDamage.yy",},
+    {"name":"snd_lavaBubble","order":5,"path":"sounds/snd_lavaBubble/snd_lavaBubble.yy",},
     {"name":"snd_menuMusic","order":1,"path":"sounds/snd_menuMusic/snd_menuMusic.yy",},
     {"name":"snd_prewaveMusic","order":2,"path":"sounds/snd_prewaveMusic/snd_prewaveMusic.yy",},
     {"name":"snd_turretShot","order":3,"path":"sounds/snd_turretShot/snd_turretShot.yy",},
