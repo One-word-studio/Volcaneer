@@ -46,6 +46,7 @@
     {"name":"fadeOutMusic","order":1,"path":"scripts/fadeOutMusic/fadeOutMusic.yy",},
     {"name":"snd_menuMusic","order":1,"path":"sounds/snd_menuMusic/snd_menuMusic.yy",},
     {"name":"snd_prewaveMusic","order":2,"path":"sounds/snd_prewaveMusic/snd_prewaveMusic.yy",},
+    {"name":"snd_turretShot","order":3,"path":"sounds/snd_turretShot/snd_turretShot.yy",},
     {"name":"Background","order":1,"path":"sprites/Background/Background.yy",},
     {"name":"main_bg","order":6,"path":"sprites/main_bg/main_bg.yy",},
     {"name":"spr_arrow","order":5,"path":"sprites/spr_arrow/spr_arrow.yy",},
