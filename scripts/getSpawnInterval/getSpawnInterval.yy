@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"getSpawnIntervalMultiplier",
+  "%Name":"getSpawnInterval",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"getSpawnIntervalMultiplier",
+  "name":"getSpawnInterval",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",

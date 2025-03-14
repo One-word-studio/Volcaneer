@@ -37,8 +37,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_lavaWalk",
-    "path":"sprites/spr_lavaWalk/spr_lavaWalk.yy",
+    "name":"spr_stoneWalk",
+    "path":"sprites/spr_stoneWalk/spr_stoneWalk.yy",
   },
   "spriteMaskId":null,
   "visible":true,

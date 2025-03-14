@@ -71,7 +71,6 @@
     {"name":"spr_turret_building","order":2,"path":"sprites/spr_turret_building/spr_turret_building.yy",},
     {"name":"spr_turret","order":1,"path":"sprites/spr_turret/spr_turret.yy",},
     {"name":"spr_uiBackground2","order":2,"path":"sprites/spr_uiBackground2/spr_uiBackground2.yy",},
-    {"name":"spr_upgrade","order":1,"path":"sprites/spr_upgrade/spr_upgrade.yy",},
     {"name":"spr_watchtower","order":10,"path":"sprites/spr_watchtower/spr_watchtower.yy",},
   ],
 }

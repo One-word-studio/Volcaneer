@@ -1,4 +1,4 @@
 // Spawns enemies
-instance_create_layer(x, y, "Instances", enemyType);
-// Sets timer for next spawn. This interval decreases as waves increase.
-alarm_set(0, 15 * getSpawnIntervalMultiplier(obj_gameManager.waveIndex));
+alarm_set(1, round(random(10)))
+// Sets timer for next spawn. This interval decreases as time increase.
+alarm_set(0, getSpawnInterval(obj_gameManager.currentTimerSeconds));

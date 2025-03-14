@@ -8,8 +8,8 @@ if built {
 		instance_create_depth(x + 35, y - 12, 5, obj_shot)
 	}
 	
-	draw_text(gui_inner_x + 4, gui_inner_y + 18, string("SPEED: {0}", fire_rate))
-	draw_text(gui_inner_x + 4,gui_inner_y + 54, "ENABLED")
+	draw_text(gui_inner_x + 42, gui_inner_y + 18, string("SPEED: {0}", fire_rate))
+	draw_text(gui_inner_x + 36,gui_inner_y + 54, "ENABLED")
 } else {
-	draw_text(gui_inner_x + 4, gui_inner_y + 18, "BUILD")	
+	draw_text(gui_inner_x + 26, gui_inner_y + 18, "BUILD")
 }

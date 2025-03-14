@@ -32,6 +32,7 @@
   "properties":[
     {"$GMObjectProperty":"v1","%Name":"fire_rate","filters":[],"listItems":[],"multiselect":false,"name":"fire_rate","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"240","varType":0,},
     {"$GMObjectProperty":"v1","%Name":"built","filters":[],"listItems":[],"multiselect":false,"name":"built","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
+    {"$GMObjectProperty":"v1","%Name":"build_cost","filters":[],"listItems":[],"multiselect":false,"name":"build_cost","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"5","varType":0,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

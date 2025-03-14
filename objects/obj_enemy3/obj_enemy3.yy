@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_enemy3",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_pathEndpoint","path":"objects/obj_pathEndpoint/obj_pathEndpoint.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_enemy3",
   "overriddenProperties":[
@@ -34,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_copperWalk",
-    "path":"sprites/spr_copperWalk/spr_copperWalk.yy",
+    "name":"spr_lavaWalk",
+    "path":"sprites/spr_lavaWalk/spr_lavaWalk.yy",
   },
   "spriteMaskId":null,
   "visible":true,

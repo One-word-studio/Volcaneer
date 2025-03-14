@@ -1,1 +1,1 @@
-alarm_set(0, spawnInterval);
+alarm_set(0, 1);

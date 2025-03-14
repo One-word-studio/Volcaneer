@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_stoneWalk",
-    "path":"sprites/spr_stoneWalk/spr_stoneWalk.yy",
+    "name":"spr_copperWalk",
+    "path":"sprites/spr_copperWalk/spr_copperWalk.yy",
   },
   "spriteMaskId":null,
   "visible":true,
