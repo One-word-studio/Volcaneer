@@ -1,1 +1,0 @@
-fadeOutMusic(snd_prewaveMusic);
