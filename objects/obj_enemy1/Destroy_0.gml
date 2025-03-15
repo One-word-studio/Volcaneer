@@ -1,1 +1,1 @@
-effect_create_below(ef_explosion, x, y, 0, c_gray);
+part_particles_create(global.particleSystem, x, y, global.iceParticle, 30);
