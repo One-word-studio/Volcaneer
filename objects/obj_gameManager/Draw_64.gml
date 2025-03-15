@@ -19,6 +19,6 @@ if string_length(secondString) = 1 {
 	secondString = "0" + secondString
 }
 
-draw_text_transformed_color(900, 40, $"{4-currentTimerMinutes}:{secondString}",
+draw_text_transformed_color(view_wport[0]/2, 40, $"{4-currentTimerMinutes}:{secondString}",
 								4, 4, 0,
 								c_black, c_black, c_red, c_red, 1)

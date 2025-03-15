@@ -38,6 +38,7 @@
     {"name":"obj_musicControllerMain","order":17,"path":"objects/obj_musicControllerMain/obj_musicControllerMain.yy",},
     {"name":"obj_particleManager","order":21,"path":"objects/obj_particleManager/obj_particleManager.yy",},
     {"name":"obj_pathEndpoint","order":3,"path":"objects/obj_pathEndpoint/obj_pathEndpoint.yy",},
+    {"name":"obj_pauseManager","order":22,"path":"objects/obj_pauseManager/obj_pauseManager.yy",},
     {"name":"obj_play_button","order":12,"path":"objects/obj_play_button/obj_play_button.yy",},
     {"name":"obj_quit_button","order":13,"path":"objects/obj_quit_button/obj_quit_button.yy",},
     {"name":"obj_shot","order":9,"path":"objects/obj_shot/obj_shot.yy",},

@@ -59,6 +59,7 @@
     {"id":{"name":"obj_musicControllerMain","path":"objects/obj_musicControllerMain/obj_musicControllerMain.yy",},},
     {"id":{"name":"obj_particleManager","path":"objects/obj_particleManager/obj_particleManager.yy",},},
     {"id":{"name":"obj_pathEndpoint","path":"objects/obj_pathEndpoint/obj_pathEndpoint.yy",},},
+    {"id":{"name":"obj_pauseManager","path":"objects/obj_pauseManager/obj_pauseManager.yy",},},
     {"id":{"name":"obj_play_button","path":"objects/obj_play_button/obj_play_button.yy",},},
     {"id":{"name":"obj_quit_button","path":"objects/obj_quit_button/obj_quit_button.yy",},},
     {"id":{"name":"obj_shot","path":"objects/obj_shot/obj_shot.yy",},},
