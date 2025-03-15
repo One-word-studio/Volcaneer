@@ -1,3 +1,5 @@
+if (gameEnd) { return }
+
 draw_sprite_ext(spr_uiBackground2, -1, 4, 4, 2, 1.5, 0, c_white, 1)
 draw_sprite(spr_magicMineral, 0, 24, 24)
 draw_text(70, 40, mineral)

@@ -1,3 +1,5 @@
+if (gameEnd) { return }
+
 //Cheats
 if (keyboard_check_pressed(ord("N"))) {
 	obj_gameManager.lava += 10

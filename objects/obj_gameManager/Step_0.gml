@@ -1,3 +1,5 @@
+if (gameEnd) { return }
+
 currentTimerSeconds = floor((current_time - startTime)/1000)
 var prevMin = currentTimerMinutes
 currentTimerMinutes = floor(currentTimerSeconds/60)
@@ -9,6 +11,7 @@ if (prevMin != currentTimerMinutes) {
 if (lava >= 100) {
 	room_goto_next()
 } else if (currentTimerMinutes > 4) {
+	gameEnd = true
 	room_goto(Win)
 }
 
