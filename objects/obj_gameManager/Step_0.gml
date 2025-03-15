@@ -9,7 +9,7 @@ if (prevMin != currentTimerMinutes) {
 if (lava >= 100) {
 	room_goto_next()
 } else if (currentTimerMinutes > 4) {
-	room_goto_next()
+	room_goto(Win)
 }
 
 //Shortcut to view change
