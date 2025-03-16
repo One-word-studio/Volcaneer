@@ -58,24 +58,37 @@ ________________
 The following resources and assets are utilized or adapted for use in Volcaneer Game Artworks:
                   * Golem Character Sprites
  Source: Craftpix Golem Character Sprite Sheets
+https://craftpix.net/product/golem-character-sprite-sheets-pixel-art/?num=1&count=253&sq=rock%20monster&pos=0
 
                   * Volcanic Landscape Background
  Source: Craftpix Volcanic Landscape Pixel Backgrounds
+https://craftpix.net/product/volcanic-landscape-pixel-game-backgrounds/?num=1&count=24&sq=water%20flow&pos=12
 
                   * User Interface (UI) Elements
  Source: Craftpix Game UI Pixel Art
+https://craftpix.net/product/game-ui-pixel-art/?num=4&count=1705&sq=2d%20tileset&pos=9
 
                   * Resource Icons
  Source: Craftpix Free Mining Pixel Icons 32x32
+https://craftpix.net/freebies/free-mining-pixel-32x32-icons/?num=1&count=1696&sq=2d%20mine&pos=14
 
                   * Turrets
  Source: Craftpix Cyberpunk Desert Bandits Pixel Art
+https://craftpix.net/product/cyberpunk-desert-bandits-pixel-art/?num=1&count=10&sq=turret&pos=2
 
                   * Buildings
  Source: Craftpix Village Pixel Art Environment Pack
+https://craftpix.net/product/village-pixel-art-environment-assets-pack/?num=3&count=81&sq=buildings&pos=6
+
+				  * Enemy Sounds
+  Source: Pixabay
+https://pixabay.com/sound-effects/rock-destroy-6409/
+https://pixabay.com/sound-effects/fire-sound-efftect-21991/
+Modified by Smit Sakariya
 
                   * Tile and Ladder Set
  Source: Craftpix Platformer Pixel Art Cave 2D Tileset
+ 
                   * Main Menu Background
  Source: Created by DALL-E AI image generator
 
