@@ -10,3 +10,4 @@ cheater=0
 draw_set_font(Planes_ValMore)
 
 alarm[0] = 1
+draw_set_valign(fa_top);
