@@ -1,2 +1,2 @@
-alarm[0] = natural_lava_rate
+alarm[0] = lava_rate
 lava+=1

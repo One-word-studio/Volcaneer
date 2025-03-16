@@ -5,7 +5,7 @@ var prevMin = currentTimerMinutes
 currentTimerMinutes = floor(currentTimerSeconds/60)
 
 if (prevMin != currentTimerMinutes) {
-	natural_lava_rate -= 5
+	lava_rate -= 5
 }
 
 if (lava >= 100) {

@@ -6,6 +6,7 @@ if (room == Game) {
 	startTime = current_time
 	cheater=0
 	alarm[0] = 1
+	lava_rate = natural_lava_rate
 	draw_set_valign(fa_top);
 }
 
