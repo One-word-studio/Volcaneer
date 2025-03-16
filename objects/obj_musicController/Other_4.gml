@@ -1,4 +1,4 @@
-if (room == Main) {
+if (room == Intro || (room == Main && !audio_is_playing(snd_menuMusic))) {
 	audio_stop_all();
 	audio_play_sound(snd_menuMusic, 1, true);
 } else if (room == Game) {
