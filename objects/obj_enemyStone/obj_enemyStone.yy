@@ -1,21 +1,21 @@
 {
   "$GMObject":"",
-  "%Name":"obj_enemy2",
+  "%Name":"obj_enemyStone",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_enemy2",
+  "name":"obj_enemyStone",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_enemy1","path":"objects/obj_enemy1/obj_enemy1.yy",},"propertyId":{"name":"walkSpeed","path":"objects/obj_enemy1/obj_enemy1.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":".7",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_enemyIce","path":"objects/obj_enemyIce/obj_enemyIce.yy",},"propertyId":{"name":"walkSpeed","path":"objects/obj_enemyIce/obj_enemyIce.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":".7",},
   ],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
   "parentObjectId":{
-    "name":"obj_enemy1",
-    "path":"objects/obj_enemy1/obj_enemy1.yy",
+    "name":"obj_enemyIce",
+    "path":"objects/obj_enemyIce/obj_enemyIce.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_copperWalk",
-    "path":"sprites/spr_copperWalk/spr_copperWalk.yy",
+    "name":"spr_stoneWalk",
+    "path":"sprites/spr_stoneWalk/spr_stoneWalk.yy",
   },
   "spriteMaskId":null,
   "visible":true,

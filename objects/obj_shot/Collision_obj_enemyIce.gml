@@ -7,13 +7,13 @@ var collisionSound = audio_play_sound(snd_enemyTakingDamage, 1, false, 0.15);
 audio_sound_pitch(collisionSound, random_range(0.9, 1.1));
 
 // Damage dealt is based on enemy type
-if (other.object_index == obj_enemy1) {
+if (other.object_index == obj_enemyIce) {
 	other.hp -= 50;
 }
-else if (other.object_index == obj_enemy2) {
+else if (other.object_index == obj_enemyStone) {
 	other.hp -= 33.35;
 }
-else if (other.object_index == obj_enemy3) {
+else if (other.object_index == obj_enemyLava) {
 	other.hp -= 25;
 }
 

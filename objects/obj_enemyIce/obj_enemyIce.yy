@@ -1,6 +1,6 @@
 {
   "$GMObject":"",
-  "%Name":"obj_enemy1",
+  "%Name":"obj_enemyIce",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
@@ -9,7 +9,7 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_enemy1",
+  "name":"obj_enemyIce",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -38,8 +38,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_stoneWalk",
-    "path":"sprites/spr_stoneWalk/spr_stoneWalk.yy",
+    "name":"spr_iceWalk",
+    "path":"sprites/spr_iceWalk/spr_iceWalk.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,23 +1,23 @@
 {
   "$GMObject":"",
-  "%Name":"obj_enemy3",
+  "%Name":"obj_enemyLava",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_pathEndpoint","path":"objects/obj_pathEndpoint/obj_pathEndpoint.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_enemy3",
+  "name":"obj_enemyLava",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_enemy1","path":"objects/obj_enemy1/obj_enemy1.yy",},"propertyId":{"name":"walkSpeed","path":"objects/obj_enemy1/obj_enemy1.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"0.5",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_enemy1","path":"objects/obj_enemy1/obj_enemy1.yy",},"propertyId":{"name":"animationSpeed","path":"objects/obj_enemy1/obj_enemy1.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"0.15",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_enemyIce","path":"objects/obj_enemyIce/obj_enemyIce.yy",},"propertyId":{"name":"walkSpeed","path":"objects/obj_enemyIce/obj_enemyIce.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"0.5",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_enemyIce","path":"objects/obj_enemyIce/obj_enemyIce.yy",},"propertyId":{"name":"animationSpeed","path":"objects/obj_enemyIce/obj_enemyIce.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"0.15",},
   ],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
   "parentObjectId":{
-    "name":"obj_enemy1",
-    "path":"objects/obj_enemy1/obj_enemy1.yy",
+    "name":"obj_enemyIce",
+    "path":"objects/obj_enemyIce/obj_enemyIce.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
