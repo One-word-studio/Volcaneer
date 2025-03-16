@@ -9,7 +9,8 @@ if (prevMin != currentTimerMinutes) {
 }
 
 if (lava >= 100) {
-	room_goto_next()
+	gameEnd = true
+	room_goto(Lose)
 } else if (currentTimerMinutes > 4) {
 	gameEnd = true
 	room_goto(Win)

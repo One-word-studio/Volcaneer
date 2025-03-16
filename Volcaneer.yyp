@@ -54,6 +54,7 @@
     {"id":{"name":"obj_enemy3","path":"objects/obj_enemy3/obj_enemy3.yy",},},
     {"id":{"name":"obj_gameManager","path":"objects/obj_gameManager/obj_gameManager.yy",},},
     {"id":{"name":"obj_inst_button","path":"objects/obj_inst_button/obj_inst_button.yy",},},
+    {"id":{"name":"obj_loseScreen","path":"objects/obj_loseScreen/obj_loseScreen.yy",},},
     {"id":{"name":"obj_musicControllerCredits","path":"objects/obj_musicControllerCredits/obj_musicControllerCredits.yy",},},
     {"id":{"name":"obj_musicControllerGame","path":"objects/obj_musicControllerGame/obj_musicControllerGame.yy",},},
     {"id":{"name":"obj_musicControllerMain","path":"objects/obj_musicControllerMain/obj_musicControllerMain.yy",},},
@@ -73,6 +74,7 @@
     {"id":{"name":"End","path":"rooms/End/End.yy",},},
     {"id":{"name":"Game","path":"rooms/Game/Game.yy",},},
     {"id":{"name":"Instructions","path":"rooms/Instructions/Instructions.yy",},},
+    {"id":{"name":"Lose","path":"rooms/Lose/Lose.yy",},},
     {"id":{"name":"Main","path":"rooms/Main/Main.yy",},},
     {"id":{"name":"Win","path":"rooms/Win/Win.yy",},},
     {"id":{"name":"fadeOutMusic","path":"scripts/fadeOutMusic/fadeOutMusic.yy",},},
@@ -128,6 +130,7 @@
     {"roomId":{"name":"End","path":"rooms/End/End.yy",},},
     {"roomId":{"name":"Instructions","path":"rooms/Instructions/Instructions.yy",},},
     {"roomId":{"name":"Win","path":"rooms/Win/Win.yy",},},
+    {"roomId":{"name":"Lose","path":"rooms/Lose/Lose.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
