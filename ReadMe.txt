@@ -83,6 +83,22 @@ Main Menu Background
 Music
    * Made by Aidan Pilato (our designer)
 
+Win screen Celebration GIF
+   * Source: Dribbble
+   https://dribbble.com/shots/4959690-Lottie-Confettie
+
+Font  used in Credits/Win-Lose screens
+   * Source: OpenGameArt
+   https://opengameart.org/content/superpowers-assets-bitmap-fonts
+
+Trophy pixel-art
+   * Source: Vecteezy
+   https://www.vecteezy.com/vector-art/23339964-golden-trophy-cup-in-pixel-art-style
+
+Esc key clip art
+   * Source: iStock by Getty Images
+   https://www.istockphoto.com/vector/esc-keyboard-button-icon-vector-line-icon-gm1202771377-345445603
+
 (Assets have been edited to better fit the game requirements.)
 Anything not listed in licensing information was created by team members.
 All assets used comply with their respective licenses as outlined by Craftpix.net.
