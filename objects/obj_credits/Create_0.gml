@@ -10,7 +10,7 @@ credits = [
     "One Word Studios",
 	"",
     "Programmer: Smit Sakariya ",
-    "Designer: Aidan Pilato",
+    "Designer/Composer: Aidan Pilato",
     "Artist: Talha Kavaz",
     "Producer: Sourabh Kumar Dubey",
     
