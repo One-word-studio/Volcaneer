@@ -1,6 +1,6 @@
 {
   "$GMProject":"",
-  "%Name":"Volcaneer-main1",
+  "%Name":"Volcaneer",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -45,7 +45,7 @@
   "MetaData":{
     "IDEVersion":"2024.11.0.179",
   },
-  "name":"Volcaneer-main1",
+  "name":"Volcaneer",
   "resources":[
     {"id":{"name":"Planes_ValMore","path":"fonts/Planes_ValMore/Planes_ValMore.yy",},},
     {"id":{"name":"obj_building","path":"objects/obj_building/obj_building.yy",},},
@@ -59,9 +59,8 @@
     {"id":{"name":"obj_gameManager","path":"objects/obj_gameManager/obj_gameManager.yy",},},
     {"id":{"name":"obj_gif","path":"objects/obj_gif/obj_gif.yy",},},
     {"id":{"name":"obj_inst_button","path":"objects/obj_inst_button/obj_inst_button.yy",},},
-    {"id":{"name":"obj_intro","path":"objects/obj_intro/obj_intro.yy",},},
     {"id":{"name":"obj_loseScreen","path":"objects/obj_loseScreen/obj_loseScreen.yy",},},
-    {"id":{"name":"obj_musicControllerMain","path":"objects/obj_musicControllerMain/obj_musicControllerMain.yy",},},
+    {"id":{"name":"obj_musicController","path":"objects/obj_musicController/obj_musicController.yy",},},
     {"id":{"name":"obj_particleManager","path":"objects/obj_particleManager/obj_particleManager.yy",},},
     {"id":{"name":"obj_pathEndpoint","path":"objects/obj_pathEndpoint/obj_pathEndpoint.yy",},},
     {"id":{"name":"obj_pauseManager","path":"objects/obj_pauseManager/obj_pauseManager.yy",},},
@@ -81,7 +80,6 @@
     {"id":{"name":"End","path":"rooms/End/End.yy",},},
     {"id":{"name":"Game","path":"rooms/Game/Game.yy",},},
     {"id":{"name":"Instructions","path":"rooms/Instructions/Instructions.yy",},},
-    {"id":{"name":"Intro","path":"rooms/Intro/Intro.yy",},},
     {"id":{"name":"Lose","path":"rooms/Lose/Lose.yy",},},
     {"id":{"name":"Main","path":"rooms/Main/Main.yy",},},
     {"id":{"name":"Win","path":"rooms/Win/Win.yy",},},
@@ -118,7 +116,6 @@
     {"id":{"name":"spr_house","path":"sprites/spr_house/spr_house.yy",},},
     {"id":{"name":"spr_iceWalk","path":"sprites/spr_iceWalk/spr_iceWalk.yy",},},
     {"id":{"name":"spr_inst_button","path":"sprites/spr_inst_button/spr_inst_button.yy",},},
-    {"id":{"name":"spr_intro","path":"sprites/spr_intro/spr_intro.yy",},},
     {"id":{"name":"spr_lavaWalk","path":"sprites/spr_lavaWalk/spr_lavaWalk.yy",},},
     {"id":{"name":"spr_magicMineral","path":"sprites/spr_magicMineral/spr_magicMineral.yy",},},
     {"id":{"name":"spr_market","path":"sprites/spr_market/spr_market.yy",},},
@@ -139,7 +136,6 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Intro","path":"rooms/Intro/Intro.yy",},},
     {"roomId":{"name":"Main","path":"rooms/Main/Main.yy",},},
     {"roomId":{"name":"Game","path":"rooms/Game/Game.yy",},},
     {"roomId":{"name":"End","path":"rooms/End/End.yy",},},
