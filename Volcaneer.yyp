@@ -39,7 +39,6 @@
   ],
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"Planes_ValMore.ttf","CopyToMask":-1,"filePath":"datafiles","name":"Planes_ValMore.ttf","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
-    {"$GMIncludedFile":"","%Name":"Volcaneer.ico","CopyToMask":-1,"filePath":"datafiles","name":"Volcaneer.ico","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
   "isEcma":false,
   "LibraryEmitters":[],
