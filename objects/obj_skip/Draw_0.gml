@@ -1,6 +1,6 @@
 draw_set_font(font_pixel);
 draw_set_halign(fa_center);
-draw_set_valign(fa_center);
+draw_set_valign(fa_middle);
 
 blink_timer++;
 if (blink_timer >= blink_interval) {
