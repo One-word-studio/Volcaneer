@@ -12,8 +12,8 @@
   "name":"obj_turret",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Turret",
+    "path":"folders/Objects/Turret.yy",
   },
   "parentObjectId":null,
   "persistent":false,

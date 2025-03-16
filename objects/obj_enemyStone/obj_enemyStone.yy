@@ -10,8 +10,8 @@
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_enemyIce","path":"objects/obj_enemyIce/obj_enemyIce.yy",},"propertyId":{"name":"walkSpeed","path":"objects/obj_enemyIce/obj_enemyIce.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":".7",},
   ],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Enemies",
+    "path":"folders/Objects/Enemies.yy",
   },
   "parentObjectId":{
     "name":"obj_enemyIce",

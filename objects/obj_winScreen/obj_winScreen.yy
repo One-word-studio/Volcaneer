@@ -12,8 +12,8 @@
   "name":"obj_winScreen",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Win Screen",
+    "path":"folders/Objects/Win Screen.yy",
   },
   "parentObjectId":null,
   "persistent":false,
