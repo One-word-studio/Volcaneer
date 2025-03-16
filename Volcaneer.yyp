@@ -63,6 +63,7 @@
     {"id":{"name":"obj_play_button","path":"objects/obj_play_button/obj_play_button.yy",},},
     {"id":{"name":"obj_quit_button","path":"objects/obj_quit_button/obj_quit_button.yy",},},
     {"id":{"name":"obj_shot","path":"objects/obj_shot/obj_shot.yy",},},
+    {"id":{"name":"obj_skip","path":"objects/obj_skip/obj_skip.yy",},},
     {"id":{"name":"obj_spawner","path":"objects/obj_spawner/obj_spawner.yy",},},
     {"id":{"name":"obj_toggle_button","path":"objects/obj_toggle_button/obj_toggle_button.yy",},},
     {"id":{"name":"obj_trophy","path":"objects/obj_trophy/obj_trophy.yy",},},

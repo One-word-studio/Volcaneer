@@ -42,6 +42,7 @@
     {"name":"obj_play_button","order":12,"path":"objects/obj_play_button/obj_play_button.yy",},
     {"name":"obj_quit_button","order":13,"path":"objects/obj_quit_button/obj_quit_button.yy",},
     {"name":"obj_shot","order":9,"path":"objects/obj_shot/obj_shot.yy",},
+    {"name":"obj_skip","order":27,"path":"objects/obj_skip/obj_skip.yy",},
     {"name":"obj_toggle_button","order":10,"path":"objects/obj_toggle_button/obj_toggle_button.yy",},
     {"name":"obj_trophy","order":26,"path":"objects/obj_trophy/obj_trophy.yy",},
     {"name":"obj_turret","order":8,"path":"objects/obj_turret/obj_turret.yy",},
