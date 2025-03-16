@@ -1,7 +1,7 @@
 // Convert seconds to steps
-var fade_in_steps = fade_in_duration * room_speed;
-var fade_out_steps = fade_out_duration * room_speed;
-var pause_steps = pause_duration * room_speed;
+var fade_in_steps = fade_in_duration * 60;
+var fade_out_steps = fade_out_duration * 60;
+var pause_steps = pause_duration * 60;
 
 switch (fade_state) {
     case 0: // Fade In

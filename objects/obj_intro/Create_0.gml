@@ -1,4 +1,4 @@
-alarm[0] = room_speed * 7;
+alarm[0] = 60 * 7;
 // Variables for fade control
 image_alpha = 0; 
 fade_in_duration = 2; // Fade-in duration in seconds
