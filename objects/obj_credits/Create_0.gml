@@ -7,7 +7,7 @@ draw_set_font(font_pixel);
 credits = [
     "VOLCANEER",
     "",
-    "One Word Studios",
+    "One Word Studio",
 	"",
     "Programmer: Smit Sakariya ",
     "Designer/Composer: Aidan Pilato",
