@@ -55,8 +55,6 @@
     {"id":{"name":"obj_gameManager","path":"objects/obj_gameManager/obj_gameManager.yy",},},
     {"id":{"name":"obj_inst_button","path":"objects/obj_inst_button/obj_inst_button.yy",},},
     {"id":{"name":"obj_loseScreen","path":"objects/obj_loseScreen/obj_loseScreen.yy",},},
-    {"id":{"name":"obj_musicControllerCredits","path":"objects/obj_musicControllerCredits/obj_musicControllerCredits.yy",},},
-    {"id":{"name":"obj_musicControllerGame","path":"objects/obj_musicControllerGame/obj_musicControllerGame.yy",},},
     {"id":{"name":"obj_musicControllerMain","path":"objects/obj_musicControllerMain/obj_musicControllerMain.yy",},},
     {"id":{"name":"obj_particleManager","path":"objects/obj_particleManager/obj_particleManager.yy",},},
     {"id":{"name":"obj_pathEndpoint","path":"objects/obj_pathEndpoint/obj_pathEndpoint.yy",},},
