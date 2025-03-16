@@ -37,7 +37,7 @@
     {"name":"obj_inst_button","order":2,"path":"objects/obj_inst_button/obj_inst_button.yy",},
     {"name":"obj_intro","order":33,"path":"objects/obj_intro/obj_intro.yy",},
     {"name":"obj_loseScreen","order":24,"path":"objects/obj_loseScreen/obj_loseScreen.yy",},
-    {"name":"obj_musicControllerMain","order":17,"path":"objects/obj_musicControllerMain/obj_musicControllerMain.yy",},
+    {"name":"obj_musicController","order":17,"path":"objects/obj_musicController/obj_musicController.yy",},
     {"name":"obj_particleManager","order":21,"path":"objects/obj_particleManager/obj_particleManager.yy",},
     {"name":"obj_pathEndpoint","order":3,"path":"objects/obj_pathEndpoint/obj_pathEndpoint.yy",},
     {"name":"obj_pauseManager","order":22,"path":"objects/obj_pauseManager/obj_pauseManager.yy",},
