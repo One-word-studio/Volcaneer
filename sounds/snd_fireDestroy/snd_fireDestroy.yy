@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"snd_fireDestory",
+  "%Name":"snd_fireDestroy",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,7 +10,7 @@
   "compression":0,
   "conversionMode":0,
   "duration":1.032,
-  "name":"snd_fireDestory",
+  "name":"snd_fireDestroy",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_fireDestory.mp3",
+  "soundFile":"snd_fireDestroy.mp3",
   "type":0,
   "volume":1.0,
 }

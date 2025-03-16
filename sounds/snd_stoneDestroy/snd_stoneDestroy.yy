@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"snd_iceDestory",
+  "%Name":"snd_stoneDestroy",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,7 +10,7 @@
   "compression":0,
   "conversionMode":0,
   "duration":0.96,
-  "name":"snd_iceDestory",
+  "name":"snd_stoneDestroy",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_iceDestory.mp3",
+  "soundFile":"snd_stoneDestroy.mp3",
   "type":0,
   "volume":1.0,
 }
