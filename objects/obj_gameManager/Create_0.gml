@@ -6,7 +6,7 @@ gameEnd = false
 startTime = current_time
 currentTimerMinutes = 0
 currentTimerSeconds = 0
-
+cheater=0
 draw_set_font(Planes_ValMore)
 
 alarm[0] = 1
