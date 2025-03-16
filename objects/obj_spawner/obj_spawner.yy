@@ -31,7 +31,7 @@
   "properties":[
     {"$GMObjectProperty":"v1","%Name":"enemyType","filters":[
         "GMObject",
-      ],"listItems":[],"multiselect":false,"name":"enemyType","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_enemyIce","path":"objects/obj_enemyIce/obj_enemyIce.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_enemy1","varType":5,},
+      ],"listItems":[],"multiselect":false,"name":"enemyType","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"obj_enemyLava","path":"objects/obj_enemyLava/obj_enemyLava.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_enemyLava","varType":5,},
     {"$GMObjectProperty":"v1","%Name":"spawnInterval","filters":[],"listItems":[],"multiselect":false,"name":"spawnInterval","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"90","varType":0,},
   ],
   "resourceType":"GMObject",
